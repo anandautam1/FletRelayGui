@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - anandautam1-patch-1
 jobs:
   gh-pages-deploy:
     runs-on: ubuntu-latest
